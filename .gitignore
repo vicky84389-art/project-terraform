@@ -1,0 +1,10 @@
+# Terraform ignore rules
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+override.tf
+override.tf.json
+*.tfvars
+*.zip
+*.exe
